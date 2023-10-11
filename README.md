@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ML, CV, DL
 - 💞️ I’m looking to collaborate on CV projects
 - 📫 How to reach me dslee1219@korea.ac.kr
+- https://velog.io/@dslee1219
 
 <!---
 leeds1219/leeds1219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
